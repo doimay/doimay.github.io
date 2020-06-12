@@ -10715,23 +10715,23 @@ p {
     color: #555555
 }
 
-#demos .owl-carousel {
+#demos .owl-carousel1 {
     margin: 2rem 0
 }
 
-#demos .owl-carousel .item {
+#demos .owl-carousel1 .item {
     height: 10rem;
     background: #4DC7A0;
     padding: 1rem
 }
 
-#demos .owl-carousel .item h4 {
+#demos .owl-carousel1 .item h4 {
     color: #FFF;
     font-weight: 400;
     margin-top: 0rem
 }
 
-#demos .owl-carousel .item-video {
+#demos .owl-carousel1 .item-video {
     height: 300px
 }
 
